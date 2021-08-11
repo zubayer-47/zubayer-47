@@ -46,8 +46,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rasel-Dev&show_icons=true&theme=gotham" alt="Zubayer-47" />
-
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&theme=gotham" alt="Zubayer-47" />
 
