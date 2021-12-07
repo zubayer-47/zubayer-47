@@ -43,5 +43,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&theme=gotham" alt="Zubayer-47" />
   
-  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendy199x&layout=compact&hide=html" alt="zendy199x" /></div>
+  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayer-47&layout=compact&hide=html,css" alt="zendy199x" /></div>
 
