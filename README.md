@@ -27,7 +27,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayer-47&layout=compact&hide=html,css" alt="zendy199x" /></div>
 
-📈 my github stats
+<br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&theme=gotham" alt="Zubayer-47" />
   
