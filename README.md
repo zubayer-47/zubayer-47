@@ -22,6 +22,4 @@ Skills: React / JavaScript / React Native / Tailwindcss /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-47&layout=compact)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&count_private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/zubayer-47)
