@@ -1,6 +1,6 @@
 ![A passionate frontend developer from Bangladesh.](https://avatars.githubusercontent.com/u/77219792?s=400&u=3b5028f259d9c9ee19f5e3cf3c0dc4a05ba675a0&v=4)
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://avatars.githubusercontent.com/u/77219792?s=400&u=3b5028f259d9c9ee19f5e3cf3c0dc4a05ba675a0&v=4)">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300](https://avatars.githubusercontent.com/u/77219792?s=400&u=3b5028f259d9c9ee19f5e3cf3c0dc4a05ba675a0&v=4">
 </p>
 ### Hi there 👋, A B M Zubayer
 ##### A passionate frontend developer from Bangladesh.
