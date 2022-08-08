@@ -32,6 +32,7 @@ Skills: React / JavaScript / React Native / Redux / Tailwindcss.
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,git,tailwind&theme=light)](https://skills.thijs.gg)
 
+/**
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
@@ -41,3 +42,4 @@ Skills: React / JavaScript / React Native / Redux / Tailwindcss.
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="React Native" height="40" style="vertical-align:top; margin:4px">
 </p>
+**/
