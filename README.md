@@ -21,7 +21,7 @@ Skills: React / JavaScript / React Native / Redux / Tailwindcss.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-47&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/zubayer-47)
 
