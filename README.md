@@ -1,32 +1,56 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.facebook.com/zubayer.dev">
-  
-</a>
+![A passionate frontend developer from Bangladesh.](https://avatars.githubusercontent.com/u/77219792?s=400&u=3b5028f259d9c9ee19f5e3cf3c0dc4a05ba675a0&v=4)
+### Hi there 👋, A B M Zubayer
+##### A passionate frontend developer from Bangladesh.
 
-![](https://visitor-badge.glitch.me/badge?page_id=zubayer-47.zubayer-47)
+![Profile views](https://gpvc.arturio.dev/zubayer-47)  
 
-<br />
 
-Hi, I'm [Zubayer](https://github.com/zubayer-47), a passionate self-taught JavaScript developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Zubayer, a passionate self-taught JavaScript developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-**languages and tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br/>
+Skills: React / JavaScript / React Native / Tailwindcss / 
+
+- 🔭 I’m currently working on React-Native 
+- 🌱 I’m currently learning JavaScript, React and React Native 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about JS, React, React Native and Web 
+- 😄 Pronouns: Zabir 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="200" />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zubayer-47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zubayer.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zubayer_dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zubayerDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zubayer-dev.netlify.app/)  
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayer-47&layout=compact&hide=html,css" alt="zendy199x" /></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-47)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&count_private=true)  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&theme=gotham" alt="Zubayer-47" />
-  
-  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zubayer-47)  
 
+![GitHub metrics](https://metrics.lecoq.io/zubayer-47)  
+
+![Profile views](https://gpvc.arturio.dev/zubayer-47)### Hi there 👋, A B M Zubayer
+#### A passionate frontend developer from Bangladesh.
+![A passionate frontend developer from Bangladesh.](https://avatars.githubusercontent.com/u/77219792?s=400&u=3b5028f259d9c9ee19f5e3cf3c0dc4a05ba675a0&v=4)
+
+Hi, I'm Zubayer, a passionate self-taught JavaScript developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+Skills: React / JavaScript / React Native / Tailwindcss / 
+
+- 🔭 I’m currently working on React-Native 
+- 🌱 I’m currently learning JavaScript, React and React Native 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about JS, React, React Native and Web 
+- 😄 Pronouns: Zabir 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zubayer-47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zubayer.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zubayer_dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zubayerDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zubayer-dev.netlify.app/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-47)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zubayer-47)  
+
+![GitHub metrics](https://metrics.lecoq.io/zubayer-47)  
