@@ -13,8 +13,7 @@ Hi, I'm Zubayer, a passionate self-taught JavaScript developer and a freelance s
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 Skills: React / JavaScript / React Native / Tailwindcss / 
-![Uploading image.png…](s)
-
+[](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/technologist_1f9d1-200d-1f4bb.png)
 - 🔭 I’m currently working on React-Native 
 - 🌱 I’m currently learning JavaScript, React and React Native 
 - 👯 I’m looking to collaborate on Github 
