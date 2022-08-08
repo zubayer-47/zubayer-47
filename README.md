@@ -20,6 +20,7 @@ Skills: React / JavaScript / React Native / Redux / Tailwindcss.
 - 😄 Pronouns: Zabir 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-47&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubayer-47)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/zubayer-47)
 
