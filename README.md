@@ -1,6 +1,6 @@
-<p align="right">
+[<p align="right">
   <img src="https://avatars.githubusercontent.com/u/77219792?s=400&u=3b5028f259d9c9ee19f5e3cf3c0dc4a05ba675a0&v=4">
-</p>
+</p>]
 ### Hi there 👋, A B M Zubayer
 #### A passionate frontend developer from Bangladesh.
 
