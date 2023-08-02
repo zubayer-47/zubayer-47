@@ -86,37 +86,6 @@
   </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Hi there 👋, A B M Zubayer
-##### A passionate frontend developer from Bangladesh.
-
-![Profile views](https://gpvc.arturio.dev/zubayer-47)  
-
-
-Hi, I'm Zubayer, a passionate self-taught JavaScript developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-Skills: React / JavaScript / React Native / Redux / Tailwindcss.
-- 🔭 I’m currently working on React-Native 
-- 🌱 I’m currently learning JavaScript, React and React Native 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about JS, React, React Native and Web 
-- 😄 Pronouns: Zabir 
-
 ![GitHub metrics](https://metrics.lecoq.io/zubayer-47)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/zubayer-47) 
