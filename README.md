@@ -117,8 +117,6 @@ Skills: React / JavaScript / React Native / Redux / Tailwindcss.
 - 💬 Ask me about JS, React, React Native and Web 
 - 😄 Pronouns: Zabir 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-47&layout=compact)
-
 ![GitHub metrics](https://metrics.lecoq.io/zubayer-47)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/zubayer-47) 
