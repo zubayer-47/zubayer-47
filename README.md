@@ -76,7 +76,7 @@
 
 <p align="center">
     <a href="https://github.com/zubayer-47">
-	    <img alt="Zubayer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Zubayer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&count_private=true&locale=en&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayer-47&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="zubayer-47" height="230px"/>
 <br/>
 
