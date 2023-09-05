@@ -74,18 +74,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 </p>
 
-<p align="center">
-    <a href="https://github.com/zubayer-47">
-	    <img alt="Zubayer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zubayer-47&show_icons=true&count_private=true&locale=en&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayer-47&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="zubayer-47" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-
-![GitHub metrics](https://metrics.lecoq.io/zubayer-47)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/zubayer-47) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/zubayer.dev) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/dev_zubayer/)  
