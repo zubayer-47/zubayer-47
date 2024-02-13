@@ -13,7 +13,7 @@
 - A passionate Self-taught Front-end developer
 - Working with ReactJS
 - Currently learning Web Development by Self
-- Personal website [link](https://zubayer-dev.netlify.app/)
+- Personal website [link](https://zubayer.vercel.app/)
 
 <br><br>
 
