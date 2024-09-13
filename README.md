@@ -1,12 +1,8 @@
 <h1 align="center">Hi , I'm A B M Zubayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![zubayer-overview](https://github.com/user-attachments/assets/971bb479-f9fa-45fd-a264-1738289b216e)
-
 <br>
 
 ![zubayer-cirle-pp](https://github.com/user-attachments/assets/a9d36329-ba8e-43f8-af9c-d74d112ed4fa)
-
-
 
 <br>
 
