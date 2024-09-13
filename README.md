@@ -11,9 +11,9 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Working with ReactJS
+- Working with ReactJS & NextJS
 - Currently learning Web Development by Self
-- Personal website [link](https://zubayer.vercel.app/)
+- Personal website [link](https://zdevp.vercel.app)
 
 <br><br>
 
