@@ -4,6 +4,12 @@
 
 <br>
 
+![zubayer-cirle-pp](https://github.com/user-attachments/assets/a9d36329-ba8e-43f8-af9c-d74d112ed4fa)
+
+
+
+<br>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
